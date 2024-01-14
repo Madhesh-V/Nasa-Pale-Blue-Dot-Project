@@ -20,7 +20,10 @@ For **Climate Action**, our efforts involve analyzing climate patterns, monitori
 ## 2. Folders and Files 
 * visuals: Output Visualizations country wise folders
 * src: codes on Jupyter notebook `src folders` before download required packages in `requirements.md` for extra data downloading.
-* raw datas: official Planetary Computer `json files(api_key)` for Virtualizations 
+* raw datas: official Planetary Computer `json files(api_key)` for Virtualizations
+
+You can install these packages using:
+`pip install -r requirements.txt`
 
 ## 3. Repository Structure
 
