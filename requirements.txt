@@ -15,7 +15,7 @@ pystac==0.5.5
 planetary_computer==0.0.21
 
 # HTTP requests
-requests==2.26.0
+requests==2.31.0
 requests-cache==0.7.4
 retry-requests==1.1.0
 
